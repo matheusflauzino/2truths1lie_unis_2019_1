@@ -25,6 +25,8 @@ Já comi macarrão com estrogonofe como molho e granulado ocm queiro ralado;
 
 4 - Abra uma [Issues](https://github.com/matheusflauzino/2truths1lie_unis_2019_1/issues) perguntando para um colega específico qual foi a última série que ele assistiu no Netflix (ou similar). Veja o meu exemplo na aba de **Issues**
 
+5 - Se existir uma **Issues** referenciando você... responda! ;)
+
 ## Dicas
 
 Para ter o repositório em sua máquine, utilize o seguinte comando
