@@ -22,3 +22,20 @@ Tenho medo de água;
 Fui jogador de Rugby;
 Já comi macarrão com estrogonofe como molho e granulado ocm queiro ralado;
 ~~~~
+
+## Dicas
+
+Para ter o repositório em sua máquine, utilize o seguinte comando
+```console
+git clone https://github.com/matheusflauzino/2truths1lie_unis_2019_1.git
+```
+
+Sempre que for editar um arquivo do amiguinho, utilize o comando ```pull```
+```console
+git pull
+```
+
+Para empurrar/subir uma alteração, utilize o comando ```push```
+```console
+push origin master
+```
