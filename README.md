@@ -9,8 +9,6 @@ O intuito desta atividade é fixar os conhecimentos de Git (e GitHub) dos alunos
 
 3 - Inserir **2 VERDADE** e **1 MENTIRA**
 
-4 - Abra uma [Issues](https://github.com/matheusflauzino/2truths1lie_unis_2019_1/issues) perguntando para um colega específico qual foi a última série que ele assistiu no Netflix (ou similar).
-
 ~~~~
 Tenho medo de água;
 Fui jogador de Rugby;
@@ -25,6 +23,7 @@ Fui jogador de Rugby;
 Já comi macarrão com estrogonofe como molho e granulado ocm queiro ralado;
 ~~~~
 
+4 - Abra uma [Issues](https://github.com/matheusflauzino/2truths1lie_unis_2019_1/issues) perguntando para um colega específico qual foi a última série que ele assistiu no Netflix (ou similar). Veja o meu exemplo na aba de **Issues**
 
 ## Dicas
 
