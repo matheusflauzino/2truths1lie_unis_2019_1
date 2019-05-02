@@ -1,4 +1,5 @@
 ﻿Gosto de café;
+
 Sou funcionário contratado;
 Mentira - Bruno Henrique
 Mentire - Luis
@@ -6,5 +7,7 @@ Mentira - Camilo
 Mentira - Breno
 Mentira - Lauro
 Mentira - Samuel
+Mentira - Regis
+
 Não tenho redes sociais;
 Verdade verdadeira - Samuel
